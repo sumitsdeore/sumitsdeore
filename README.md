@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I am working on a project in which I have to make a agra tourism website for a client. Also, I am working on the inventory management system for local businesses.<br>I have a great knowledge in web development and full stack software development.<br>I am good at handeling and testing API's<br>I love to explore different AI tools and use them to improve my productivity.<br>Learing more about Software Development and Machine Learning<br>
+Currently, I am working on a project in which I have to make an agrotourism website for a client. Also, I am working on the inventory management system for local businesses.<br>I have a great knowledge of Full Stack Web Development and Software Development.<br>I am good at handling and testing API's.<br>I love to explore different AI tools and use them to improve my productivity.<br>Learning more about Software Development and Machine Learning.<br>
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@ Currently, I am working on a project in which I have to make a agra tourism webs
 ![](https://github-readme-stats.vercel.app/api?username=sumitsdeore&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sumitsdeore&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsdeore&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sumitsdeore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
